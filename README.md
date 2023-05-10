@@ -1,0 +1,1 @@
+This repository covers all projects shell-related
