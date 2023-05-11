@@ -1,1 +1,1 @@
-This repository covers all projects shell-related
+This repository contains all the projects on using shell
